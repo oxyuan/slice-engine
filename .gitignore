@@ -1,0 +1,11 @@
+/test/
+/.idea/
+
+*.exe
+*.test
+*.prof
+*.out
+
+*.iml
+
+.DS_Store
